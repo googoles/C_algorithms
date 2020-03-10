@@ -2,12 +2,12 @@
 Practice Algorithms for CodingTest by C++
 
 <hr/>
-> What I use
+What I use
 
-> > C++
+C++
 
 <hr/>
-> How will I study Algorithms.
+How will I study Algorithms.
 
 I will use thoes webpages.
 <https://visualgo.net/ko>
