@@ -10,6 +10,8 @@ int main() {
     // int b = 2;
     // int c = function(b);
     // return 0;
+    // Test commit
+    
     const int& c = function();
     std::cout << "c: " << c << std::endl;
     std::cout << "Hello world" << std::endl;
