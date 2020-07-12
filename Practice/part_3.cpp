@@ -13,7 +13,6 @@ int main() {
     // Test commit
     
     const int& c = function();
-    std::cout << "c: " << c << std::endl;
     std::cout << "Hello world" << std::endl;
     // Please
     return 0;
