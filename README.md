@@ -4,7 +4,7 @@ Practice Algorithms for CodingTest by C++
 <hr/>
 What I use
 
-C++
+C
 
 <hr/>
 How will I study Algorithms.
