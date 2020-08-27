@@ -1,5 +1,5 @@
-# cplusplus_algorithms
-Practice Algorithms for CodingTest by C++
+# c_algorithms
+Practice Algorithms for CodingTest by C
 
 <hr/>
 What I use
